@@ -39,7 +39,7 @@ VoiceScribeAI is an intuitive web application designed to simplify your audio co
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express
-- **AI Models**: OpenAI GPT-4 for summarization and transcription tasks
+- **AI Models**: Google gemini 2.5 for summarization and transcription tasks
 - **Deployment**: Netlify for hosting and continuous deployment
 
 ---
